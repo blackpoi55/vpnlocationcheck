@@ -520,7 +520,7 @@ export default function Home() {
             <div className="flex items-start justify-between gap-4">
               <div>
                 <div className="text-[11px] font-semibold uppercase tracking-[0.32em] text-cyan-300">
-                  IP NOTE
+                 NaMWaN IP NOTE
                 </div>
                 <h1 className="mt-3 font-display text-4xl font-semibold tracking-tight sm:text-5xl">
                   ข้อมูลเครือข่ายของคุณ
